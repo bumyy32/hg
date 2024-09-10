@@ -4,7 +4,7 @@ Para poder realizar downloads no Hydra, será necessário o uso das fontes de do
 
 ![hydra](../assets/howto/5.png)
 
-##1. HydraLinks
+## 1. HydraLinks
 
 1.1. Abra o [HydraLinks](https://hydralinks.cloud/)
 
@@ -26,7 +26,7 @@ Para poder realizar downloads no Hydra, será necessário o uso das fontes de do
 
 ![final](../assets/hydralinks/5.png)
 
-##2. RuTracker
+## 2. RuTracker
 
 2.1. Abra o [RuTracker](https://kekitu.github.io/)
 
