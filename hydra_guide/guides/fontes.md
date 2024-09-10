@@ -2,13 +2,13 @@
 
 Para poder realizar downloads no Hydra, será necessário o uso das fontes de download, e você pode instalar elas no seu launcher da seguinte maneira:
 
-![hydra](../assets/howto/5.png)
+![hydra](/assets/howto/5.png)
 
 ## 1. HydraLinks
 
 1.1. Abra o [HydraLinks](https://hydralinks.cloud/)
 
-![hydralinks](../assets/hydralinks/2.png)
+![hydralinks](/assets/hydralinks/2.png)
 
 1.2. Já no site, você deve adicionar cada fonte ao seu launcher usando o botão "Install on Hydra"
 
