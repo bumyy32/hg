@@ -22,6 +22,6 @@ A instalação do Hydra pode ser realizada da seguinte maneira:
 
 ![exec](../assets/howto/4.png)
 
-6. Com o Hydra aberto, será necessário ter [fontes de download]() para que os downloads fiquem disponíveis
+6. Com o Hydra aberto, será necessário ter [fontes de download](.guides/fontes.md) para que os downloads fiquem disponíveis
 
 ![hydra](../assets/howto/5.png)
