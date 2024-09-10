@@ -34,7 +34,7 @@ Para poder realizar downloads no Hydra, será necessário o uso das fontes de do
 
 2.2. Já no RuTracker, vá até a seção "Português" no fim da página
 
-![pt](../assets/rutracker/2.png)
+![pt](../assets/rutracker/5.png)
 
 2.3. Em português, você pode escolher em instalar todas as categorias que a fonte oferece ou escolher somente as categorias que te agradam
 
