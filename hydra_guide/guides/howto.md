@@ -3,7 +3,7 @@
 A instalação do Hydra pode ser realizada da seguinte maneira:
 
 1. Vá ao [repositório do Hydra no Github](https://github.com/hydralauncher/hydra/releases/) e faça o download da versão setup mais recente
-(../assets/howto/0.png)
+[github](../assets/howto/0.png)
 
 2. Ao baixar, execute o instalador
 (../assets/howto/1.png)
